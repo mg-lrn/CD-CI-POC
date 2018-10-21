@@ -1,1 +1,1 @@
-# CD-CI-POC with AWS CodePipeline
+# CD-CI-POC with AWS CodePipeline on weekend
